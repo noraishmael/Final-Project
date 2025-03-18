@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crafty-stock-454012-p0",
+  "private_key_id": "85a024f26f02b47dd84f022a9c0fe3869123fe80",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfFM+jfvnTHYfd\njyeOxJM9xDXn94k/cZ8ZGYX5LKoKtHJ1n8EIOMSdQAc8TXZ3RVPiVAzDDzcKfWev\njVvKfyk9404FczlSR2ejNJINyfhbk3oEncaP8WTT+6O8tiMt7VjgJY9OZxAsmlde\n3pdhZrlmkeYj6QsZq32igX3UFc9rZG+hu9k0WOKxiPoFcFc1kixkJkhMcyO5i7Un\nBdbLVZT7+GGawBtST0T1/4XNQWOx9NSR4mL7MDvg19dRAg8pw7gzpHgvWs3NRWup\ntaIkCnvVz1vYis8Cnvx+2+qfsfrRSUMykh7z4trc2eSY7e6dyloVeH1Q6EkDKaEO\nbjf3j2fHAgMBAAECggEABIKQiHAXIRcbPPrMAk4sZnnjlVn9OCE+g3WnyLKtd3Q6\nMn9+9360hEjGa70+eI8sm6QKYJVT2CZKBD4bthf40VpaYeksXNrNY2EgKufo9J+v\nu+XFNVuAoknmEHmRccHi3SfzciOV383YYEYrQIWrB+9m+OmoeOfVvf+x04tyv/aj\nho8xdqTbQWk4gMoI7LRATDsYm8N7UuCGhfkxDSMP9atrAVTtP0gVXbgo01CJZuw7\n5QKfUAPTvzwabko+AKlfen88nAam4uQiXZyYf8nKb0IJrCmxBh/9dDjq0h5jqQSG\nKHOSOYF/mB0ZHkez4ksSSKSFYX+ybKdaC6Bz7F+aAQKBgQDUMoJ/w++kFjmPoGcr\n8/EP+ziN3XsP1AfmMPdG1VnE8hU45ddiY8ynFbkDshLL0jCjAmOEgJSqEZyU4+O9\nOAhN5a3Sw5sxUAGMDYDSDb28eO1Npf15GF+kZkJuIbUxCxZJAWN/zwDOuhR9t3Rx\nDv0Gz4bcvTfh2YlDIWAh7qDDRwKBgQC/62ekI8KKoDRsC/RD9JWsvVXGtyeZxZHx\n46IfwrZ+pWROWxWPSuqw6s/wriVmn1WUUSWKnoy4yx5fB+SvyZXrSXSz2hOIb58w\nHDYs5k+/fm/X4iy5a1kHmhBi/1YaC528Djj//p4bWGkxgb2ITjAsdTrsoVGegLxg\n0og5MYF3gQKBgQCRolTkQWKQWFyLEYidpt+0mzO2UeKq+1esicC8kaL5wzgDg+Nt\n+Ja1uffv7GBwGMMerX4Fq4XcrxerLDjaXcF9TPweofc6QfG94GqgP6QP3WLontq3\nKJ5Do5dGJMZJcZWK53QVfMnOF/IGUkmNar8H1Jh3mTnoPLezJg3nW/Jj8wKBgBH7\nAA7Euuk58S9eP1hOhedVJcAkULV7aRz8cqf/GhHrdOZSakaugiZpGWo3JpHiw6XN\npHLEP/LgNMw6dRZzEHSmwSRIfiP+MS/UtM6oFTifo+LZ8c69W+32ZSqhOXPfOrvv\nqS9yr2VodxKIUTV//ctsgETDKF5tOTjpAJI7LSIBAoGBAIoumKBE/osSd57ibKPW\n1ezQSXsqXVM30TM9GMJbHAuVx9DV4L7FODILpTR4q6/wM4edSuDzR3UvsE9fATye\nuWxKcr4e+FiiTeayLB/tk7O4RX36FHDgNCI2vXYO2K+vMPZee1IJYP0sl5HktM5e\nmg5u2S4/wHFELV+R2fBf8Qn+\n-----END PRIVATE KEY-----\n",
+  "client_email": "translation-for-tda-project@crafty-stock-454012-p0.iam.gserviceaccount.com",
+  "client_id": "113949493784169622936",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translation-for-tda-project%40crafty-stock-454012-p0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
